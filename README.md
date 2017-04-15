@@ -30,6 +30,6 @@ The push buttons are in the pins:
 I am supplying power through the Usb port but you can use a battery
 <div class="imagemMateria imgC">
     <img width="" height="" title="SrDuino" alt="SrDuino"
-         src="sites/default/files/uploads/restoDoCaminho"/>
+         src="https://github.com/gsrbr/SrDuino/blob/master/Code/SrDuino.png"/>
     <p>SrDuino</p> []
 </div>
