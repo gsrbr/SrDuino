@@ -1,0 +1,73 @@
+--V0.4.6--
+Some code changes
+Fast but important change. Buttons now are pull-up. (Connected at GND and pin), this reduces a lot the mA consumed and its better. (Arduino nano consumes about 15mA with arduitochi)
+
+--V0.4.5--
+Changes in code and some improvments
+New "maths" game. Only for no baby arduitochis
+
+--V0.4.4--
+Some optimizations
+Deleted code for connection between two arduinos, not works.
+
+--V0.4.3--
+Optimized code
+Warning: Changed default pins! Now compatible with default pins with arduino nano and more, please view it, and if you are updating from older, you can change pins in arduitochi.ino
+First "Evolve" in arduitochi!
+Fixes for game "Fall". 
+
+Code disabled in WIP of serial comunication between two arduitochis, is not working, needs work and optimization. Is only for reference to me. Will be working in a time.
+
+--V0.4.2--
+Beta version of game "Fall". Some things are left to be polished, but is playable
+
+--V0.4.1--
+Fix poop not working and other things
+
+--V0.4--
+New system for controlling buttons, now no need for patch for some arduinos, all works, and no "bad" clics with some cheap/weird buttons, software controls that.
+A new game WIP called Fall (soon will work)
+More comments in source for understanding the code (Items part is better now)
+
+--V0.3--
+Buyed items can be seen and some used (shop remains needing a BIG update)
+Game bug fixed
+
+--V0.2--
+Optimized/changed code
+Some bugfixing and optimizing games
+Enabled alone function, it sleeps when is not in use
+Outside basic place
+Trying shop items code. Items doesnt show up and can't do anything yet
+
+--V0.1a--
+Translated all to English for been international, the rest is like V0.1
+
+--V0.1-- (Primera versión pública-In Spanish)
+Functions:
+Eat
+Poop
+Go to bath
+Two games
+Save/Load/Erase game
+Die (If not eats)
+Do sounds in some occasions
+
+
+-----Stadistic info for Arduitochi for seen differencies on code space, taked from Arduino MEGA2560. (For Arduino nano the sketch weights a little less)-----
+V0.4.3
+El Sketch usa 18.874 bytes (7%) del espacio de almacenamiento de programa. El máximo es 253.952 bytes.
+Las variables Globales usan 1.192 bytes (14%) de la memoria dinámica, dejando 7.000 bytes para las variables locales. El máximo es 8.192 bytes.
+
+V0.3
+El Sketch usa 19.656 bytes (7%) del espacio de almacenamiento de programa. El máximo es 253.952 bytes.
+Las variables Globales usan 1.149 bytes (14%) de la memoria dinámica, dejando 7.043 bytes para las variables locales. El máximo es 8.192 bytes.
+
+
+V0.2
+El Sketch usa 19.194 bytes (7%) del espacio de almacenamiento de programa. El máximo es 253.952 bytes.
+Las variables Globales usan 1.133 bytes (13%) de la memoria dinámica, dejando 7.085 bytes para las variables locales. El máximo es 8.192 bytes.
+
+V0.1a
+El Sketch usa 18.152 bytes (7%) del espacio de almacenamiento de programa. El máximo es 253.952 bytes.
+Las variables Globales usan 1.027 bytes (12%) de la memoria dinámica, dejando 7.165 bytes para las variables locales. El máximo es 8.192 bytes.
