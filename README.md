@@ -33,3 +33,11 @@ I am supplying power through the Usb port but you can use a battery
          src="https://github.com/gsrbr/SrDuino/blob/master/Code/SrDuino.png"/>
     <p>SrDuino</p>
 </div>
+
+<h4 align="right">References:</h4>
+<p align="right" >
+    <a target="_blank" href="http://blog.filipeflop.com/arduino/jogue-snake-com-arduino.html">Snake</a><br/>
+    <a target="_blank" href="http://facacomarduino.info/projeto-37-jogo-do-ping-pong-com.html">Ping-Pong</a><br>
+    <a target="_blank" href="http://dqsoft.blogspot.com.br/2012/01/display-grafico-nokia-5110-parte-6.html">Breakout.</a><br>
+    <a target="_blank" href="https://gitlab.com/JKANetwork/arduitochi">Arduitochi</a>
+</p>
