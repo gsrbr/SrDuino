@@ -31,5 +31,5 @@ I am supplying power through the Usb port but you can use a battery
 <div class="imagemMateria imgC">
     <img width="" height="" title="SrDuino" alt="SrDuino"
          src="https://github.com/gsrbr/SrDuino/blob/master/Code/SrDuino.png"/>
-    <p>SrDuino</p> []
+    <p>SrDuino</p>
 </div>
